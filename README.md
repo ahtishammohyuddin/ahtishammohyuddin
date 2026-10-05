@@ -2,7 +2,7 @@
 
 **IT graduate building AI tools with Python.** Based in Karachi, Pakistan.
 
-![Open to work](https://img.shields.io/badge/Open%20to%20work-Associate%20AI%20Engineer%20%2F%20Junior%20Python-brightgreen?style=flat-square)
+![Open to work](https://img.shields.io/badge/Open%20to%20work-Junior%20AI%20Developer%20%2F%20AI%20Solutions-brightgreen?style=flat-square)
 
 ## What I'm building
 
