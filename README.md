@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Ticket #0001: Associate AI Engineer Ahtisham Mohyuddin, open to work" width="100%">
+  <img src="banner.svg" alt="Ticket #0001: Associate AI Engineer Ahtisham Mohyuddin, open to work" width="100%">
 </p>
 
 I spent two years on an IT help desk, so I think about AI the way a support engineer does: what breaks, who gets hurt when it does, and how do we catch it first. Now I build LLM applications in Python with validation, guardrails, evaluation and tests, and a fallback for when the AI is down.
@@ -10,16 +10,16 @@ I spent two years on an IT help desk, so I think about AI the way a support engi
 
 <table>
   <tr>
-    <td width="50%"><a href="https://ahtishammohyuddin.github.io/help-desk-hero/"><img src="assets/card-hdh.svg" alt="HDH-146 Help Desk Hero, resolved"></a></td>
-    <td width="50%"><a href="https://it-ticket-reply-drafter.streamlit.app"><img src="assets/card-ticket.svg" alt="TKT-0030 IT Ticket Reply Drafter, resolved"></a></td>
+    <td width="50%"><a href="https://ahtishammohyuddin.github.io/help-desk-hero/"><img src="card-hdh.svg" alt="HDH-146 Help Desk Hero, resolved"></a></td>
+    <td width="50%"><a href="https://it-ticket-reply-drafter.streamlit.app"><img src="card-ticket.svg" alt="TKT-0030 IT Ticket Reply Drafter, resolved"></a></td>
   </tr>
   <tr>
-    <td width="50%"><img src="assets/card-agent.svg" alt="AGT-0001 Job Discovery Agent, running"></td>
-    <td width="50%"><a href="https://cvanalyser-by-ahtisham.streamlit.app"><img src="assets/card-cv.svg" alt="CVA-0001 CV Analyser, resolved"></a></td>
+    <td width="50%"><img src="card-agent.svg" alt="AGT-0001 Job Discovery Agent, running"></td>
+    <td width="50%"><a href="https://cvanalyser-by-ahtisham.streamlit.app"><img src="card-cv.svg" alt="CVA-0001 CV Analyser, resolved"></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://ahtisham-portfolio-chatbot.streamlit.app"><img src="assets/card-chatbot.svg" alt="BOT-0001 Portfolio Chatbot, resolved"></a></td>
-    <td width="50%"><img src="assets/card-erp.svg" alt="ERP-0019 Business and Finance System, client project"></td>
+    <td width="50%"><a href="https://ahtisham-portfolio-chatbot.streamlit.app"><img src="card-chatbot.svg" alt="BOT-0001 Portfolio Chatbot, resolved"></a></td>
+    <td width="50%"><img src="card-erp.svg" alt="ERP-0019 Business and Finance System, client project"></td>
   </tr>
 </table>
 
