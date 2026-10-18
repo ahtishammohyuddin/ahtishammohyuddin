@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="300" viewBox="0 0 560 300">
+<rect x="1" y="1" width="558" height="298" rx="10" fill="#161b22" stroke="#2d333b" stroke-width="2"/>
+<rect x="1" y="1" width="8" height="298" rx="3" fill="#3fb950"/>
+<text x="30" y="34" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#8b949e">HDH-146</text>
+<rect x="436.4" y="18" width="93.6" height="24" rx="4" fill="none" stroke="#3fb950" stroke-width="1.5"/>
+<text x="483.2" y="35" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="700" fill="#3fb950">RESOLVED</text>
+<text x="30" y="64" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="21" font-weight="700" fill="#e6edf3">Help Desk Hero</text>
+<text x="30" y="86" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#8b949e" letter-spacing="1">ISSUE</text><text x="30" y="106" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5" fill="#e6edf3">Nobody gets good at IT support by reading about it, and</text><text x="30" y="125" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5" fill="#e6edf3">practising on real users is risky.</text><text x="30" y="156" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#3fb950" letter-spacing="1">RESOLUTION</text><text x="30" y="176" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5" fill="#e6edf3">A 3D office game with 146 reviewed tickets. The AI</text><text x="30" y="195" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5" fill="#e6edf3">coaches but never decides what is correct, and the game</text><text x="30" y="214" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5" fill="#e6edf3">works with AI switched off. 370+ tests.</text>
+<line x1="30" y1="238" x2="530" y2="238" stroke="#2d333b" stroke-dasharray="4 6"/>
+<text x="30" y="262" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#58a6ff">Three.js · FastAPI · Gemini · Playwright</text>
+<text x="30" y="284" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#8b949e">click: play it live</text>
+</svg>

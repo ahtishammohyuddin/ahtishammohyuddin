@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="300" viewBox="0 0 560 300">
+<rect x="1" y="1" width="558" height="298" rx="10" fill="#161b22" stroke="#2d333b" stroke-width="2"/>
+<rect x="1" y="1" width="8" height="298" rx="3" fill="#58a6ff"/>
+<text x="30" y="34" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#8b949e">ERP-0019</text>
+<rect x="362.8" y="18" width="167.2" height="24" rx="4" fill="none" stroke="#58a6ff" stroke-width="1.5"/>
+<text x="446.4" y="35" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="700" fill="#58a6ff">CLIENT / PRIVATE</text>
+<text x="30" y="64" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="21" font-weight="700" fill="#e6edf3">Business and Finance System</text>
+<text x="30" y="86" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#8b949e" letter-spacing="1">ISSUE</text><text x="30" y="106" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5" fill="#e6edf3">A small fashion brand needed orders, stock, costing and</text><text x="30" y="125" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5" fill="#e6edf3">profit in one place.</text><text x="30" y="156" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#58a6ff" letter-spacing="1">RESOLUTION</text><text x="30" y="176" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5" fill="#e6edf3">About 19 tables, Excel and CSV import, PDF and Excel</text><text x="30" y="195" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5" fill="#e6edf3">export, and AI summaries that use only figures the app</text><text x="30" y="214" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5" fill="#e6edf3">already calculated.</text>
+<line x1="30" y1="238" x2="530" y2="238" stroke="#2d333b" stroke-dasharray="4 6"/>
+<text x="30" y="262" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#58a6ff">PostgreSQL · SQLite · Streamlit · pandas</text>
+<text x="30" y="284" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#8b949e">private repo, walkthrough on request</text>
+</svg>

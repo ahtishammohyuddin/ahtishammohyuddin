@@ -1,29 +1,42 @@
-# Hi, I'm Ahtisham 👋
+<p align="center">
+  <img src="assets/banner.svg" alt="Ticket #0001: Associate AI Engineer Ahtisham Mohyuddin, open to work" width="100%">
+</p>
 
-**IT graduate building AI tools with Python.** Based in Karachi, Pakistan.
+I spent two years on an IT help desk, so I think about AI the way a support engineer does: what breaks, who gets hurt when it does, and how do we catch it first. Now I build LLM applications in Python with validation, guardrails, evaluation and tests, and a fallback for when the AI is down.
 
-![Open to work](https://img.shields.io/badge/Open%20to%20work-Junior%20AI%20Developer%20%2F%20AI%20Solutions-brightgreen?style=flat-square)
+[Portfolio](https://ahtishammohyuddin.netlify.app) · [LinkedIn](https://www.linkedin.com/in/ahtisham-mohyuddin-a54b55186) · [Instagram](https://www.instagram.com/ahtisham_builds) · [Email](mailto:ahtisham.mohyuddin1@gmail.com)
 
-## What I'm building
+## Ticket queue
 
-| Project | What it does | Links |
-|---|---|---|
-| **IT Ticket Reply Drafter** | Drafts safe replies to IT support tickets from a help-article knowledge base, with personal-data redaction, rule-based escalation, safety checks on every draft and a 30-ticket evaluation (FastAPI, Gemini, Streamlit) | [Live demo](https://it-ticket-reply-drafter.streamlit.app) · [Code](https://github.com/ahtishammohyuddin/it-ticket-reply-drafter) |
-| **Portfolio Chatbot** | Document-grounded chatbot that answers questions about me using only my CV and project notes (RAG, Gemini embeddings, Streamlit) | [Live demo](https://ahtisham-portfolio-chatbot.streamlit.app/) · [Code](https://github.com/ahtishammohyuddin/portfolio-chatbot) |
-| **CV Analyser** | Free AI tool that scores your CV against any job description | [Live demo](https://cvanalyser-by-ahtisham.streamlit.app/) · [Code](https://github.com/ahtishammohyuddin/CV_Analyser) |
- **Business Management & Finance System** (client project) | Streamlit and SQLite app I built for a modest fashion brand: orders with live costing, inventory and fabric purchases, production and tailor tracking, courier and COD, and returns. Private repo, shared with the client's permission. | Walkthrough on request |
+<table>
+  <tr>
+    <td width="50%"><a href="https://ahtishammohyuddin.github.io/help-desk-hero/"><img src="assets/card-hdh.svg" alt="HDH-146 Help Desk Hero, resolved"></a></td>
+    <td width="50%"><a href="https://it-ticket-reply-drafter.streamlit.app"><img src="assets/card-ticket.svg" alt="TKT-0030 IT Ticket Reply Drafter, resolved"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="assets/card-agent.svg" alt="AGT-0001 Job Discovery Agent, running"></td>
+    <td width="50%"><a href="https://cvanalyser-by-ahtisham.streamlit.app"><img src="assets/card-cv.svg" alt="CVA-0001 CV Analyser, resolved"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://ahtisham-portfolio-chatbot.streamlit.app"><img src="assets/card-chatbot.svg" alt="BOT-0001 Portfolio Chatbot, resolved"></a></td>
+    <td width="50%"><img src="assets/card-erp.svg" alt="ERP-0019 Business and Finance System, client project"></td>
+  </tr>
+</table>
 
-I'm also learning backend and AI engineering in public, and I share what I build on Instagram and LinkedIn.
+Source: [Help Desk Hero](https://github.com/ahtishammohyuddin/help-desk-hero) · [IT Ticket Reply Drafter](https://github.com/ahtishammohyuddin/it-ticket-reply-drafter) · [CV Analyser](https://github.com/ahtishammohyuddin/CV_Analyser) · [Portfolio Chatbot](https://github.com/ahtishammohyuddin/portfolio-chatbot)
 
-## Tools I use
+## Toolbox
 
-![Python](https://skillicons.dev/icons?i=python,sqlite,git,github,vscode)
+```text
+languages   Python, JavaScript, SQL
+backend     FastAPI, Pydantic, APScheduler
+ai          Gemini API, RAG, embeddings, evaluation, guardrails, PII redaction
+data        PostgreSQL, SQLite, pandas
+quality     pytest, Playwright, GitHub Actions
+learning    LangChain, LangGraph, vector databases, cloud platforms
+```
 
-Also: Streamlit, FastAPI, Gemini API, RAG / embeddings, pytest, Docker
+## Open a ticket
 
-## Let's connect
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-7dd3fc?style=for-the-badge&logo=netlify&logoColor=black)](https://ahtishammohyuddin.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahtisham-mohyuddin-a54b55186)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ahtisham_builds/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahtisham.mohyuddin1@gmail.com)
+BS Information Technology, Bahria University. About 3.5 years across AI development and IT support. [Google Cloud Gen AI badges](https://www.skills.google/public_profiles/8bc89fd5-9888-4a0b-8e17-48b3fa313768).
+Built with Claude Code. I test what I ship and can explain it.
